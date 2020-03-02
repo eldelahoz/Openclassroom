@@ -1,2 +1,3 @@
 # Openclassroom
-Le développement de mon apprendisage sur ce site web
+Le développement de mon apprentissage sur ce site web
+Ici je fais le cours, de Python et Git.
